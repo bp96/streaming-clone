@@ -1,8 +1,11 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Netflix Clone built using React + Vite
+https://streaming-clone-bp96.netlify.app/
 
-Currently, two official plugins are available:
+A Netflix movie streaming clone built using HTML/CSS/JS, React/Vite, Tailwind CSS and Firebase (for db/authentication). Hosted using Netlify.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Possible improvements:
+- Truncate text after full stop instead of 150 characters
+- Create Play button that links an item to a YouTube trailer
+- Change date format displayed to DD MONTH YYYY
+- Improve formatting of error messages from authentication screens
