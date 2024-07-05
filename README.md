@@ -2,7 +2,7 @@
 # Netflix Clone built using React + Vite
 https://streaming-clone-bp96.netlify.app/
 
-A Netflix movie streaming clone built using HTML/CSS/JS, React/Vite, Tailwind CSS and Firebase (for db/authentication). Hosted using Netlify.
+A Netflix movie streaming clone built using HTML/CSS/JS, React/Vite, Tailwind CSS and Firebase (for db/authentication). API used from The Movie DB. Hosted using Netlify.
 
 Possible improvements:
 - Truncate text after full stop instead of 150 characters
