@@ -14,7 +14,7 @@ const Main = () => {
   }, []);
   //   console.log(movie);
   
-  
+  // used to grab a snippet of the movie description
   const truncateString = (str, num) => {
     if (str?.length > num) {
       return str.slice(0, num) + '...';

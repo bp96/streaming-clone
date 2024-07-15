@@ -1,3 +1,4 @@
+// Movie DB API requests
 const key = import.meta.env.VITE_REACT_THE_MOVIE_DB_API_KEY
 
 const requests = {

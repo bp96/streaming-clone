@@ -1,3 +1,4 @@
+// defines the login page
 import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { UserAuth } from "../context/AuthContext";
@@ -60,7 +61,7 @@ const Login = () => {
                 <p>Need Help?</p>
               </div>
               <p className="py-8">
-                <span className="text-gray-600">New to Netflix?</span>{" "}
+                <span className="text-gray-600">New to STREAM?</span>{" "}
                 <Link to="/signup">Sign Up</Link>
               </p>
             </form>

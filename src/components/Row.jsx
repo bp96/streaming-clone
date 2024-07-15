@@ -1,3 +1,4 @@
+// component that defines each row of movies on the page for different categories
 import axios from 'axios';
 import React, { useEffect, useState } from 'react';
 import Movie from './Movie';
